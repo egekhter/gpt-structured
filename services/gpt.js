@@ -173,7 +173,7 @@ module.exports = {
 
                     return resolve(data);
                 } catch(e) {
-                    return reject(e);
+
                 }
             }
         });
